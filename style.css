@@ -13,3 +13,7 @@ h1 {
 	text-transform: capitalize;
 }
 
+/* published */
+.publish-time {
+	color: gray;
+}
