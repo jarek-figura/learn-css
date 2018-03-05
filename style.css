@@ -30,3 +30,6 @@ h2.destination {
 h5 {
 	color: rebeccapurple !important;
 }
+h5, p {
+	font-family: Georgia, serif;
+}
