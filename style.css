@@ -8,12 +8,16 @@ h1 {
 .uppercase {
 	text-transform: uppercase;
 }
-#article-title {
-	font-family: cursive;
-	text-transform: capitalize;
-}
 
 /* published */
 .publish-time {
 	color: gray;
+}
+
+/* other */
+.cursive {
+	font-family: cursive;
+}
+.capitalize {
+	text-transform: capitalize;
 }
