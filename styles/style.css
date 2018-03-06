@@ -19,7 +19,6 @@ main {
 	justify-items: center;
 	justify-content: center;
 	align-items: stretch;
-	height: 1600px;
 	align-content: center;
 }
 
@@ -44,11 +43,11 @@ img {
 }
 
 .a {
-	align-self: end;
+
 }
 
 .c {
-	justify-self: start;
+
 }
 
 .time {
