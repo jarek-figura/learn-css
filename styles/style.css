@@ -140,7 +140,11 @@ a.home {
 }
 
 /* Add styles for the Space Mono font here */
+.space .sample .text{
+	font-family: 'Space Mono', monospace;
+}
 
+/* ... */
 .bold {
 	font-weight: 900;
 }
@@ -155,7 +159,6 @@ a.home {
 }
 
 /* Media Queries */
-
 @media only screen and (max-width: 535px) {
 	.header {
 		font-size: 14px;
