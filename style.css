@@ -71,7 +71,8 @@ h3 {
 p {
 	color: grey;
 	font-size: 16px;
-	line-height: 48px;
+	line-height: 24px;
+	padding: 6px 10px;
 }
 
 .pull-quote {
